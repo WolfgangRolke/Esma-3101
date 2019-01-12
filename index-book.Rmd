@@ -1,0 +1,17 @@
+---
+title: ESMA 3101 - Introduction to Statistics I
+header-includes: \usepackage{color}
+                 \usepackage{float}
+output:
+  html_document: default
+  pdf_document:
+    fig_caption: no
+author: "Dr. Wolfgang Rolke"
+date: "December 12, 2018"
+---
+
+# 1 General Information   
+
+##  Syllabus  
+##  ESMA 3101.pdf  
+##  [Resma3.RData](../Resma3/Resma3.RData?Ver3.2) (Ver 3.2)
